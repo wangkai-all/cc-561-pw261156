@@ -1,0 +1,10 @@
+{
+  "name": "verification-delayed-delivery-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "检定记录延迟交付与撤回冲正本地演示（仅 Node.js 内置模块）",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
